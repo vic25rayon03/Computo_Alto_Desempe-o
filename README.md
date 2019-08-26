@@ -1,6 +1,6 @@
-# Computo_Alto_Desempe-o
-Compilación MPI
+# Computo_Alto_Desempeño
+Compilación MPI:
 $ mpicc nombrePrograma.c -o h
-Ejecución
+Ejecución:
 $mpirun -np 4 ./h
 mpiexec
