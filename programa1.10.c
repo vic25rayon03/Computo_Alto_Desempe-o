@@ -37,7 +37,6 @@ P0--P2--- 6+1
    \
     P3--- 6
 
-
 int n=30, m=20, sobran 0;
 nren = (n/np)
 sobran = nren % 20
