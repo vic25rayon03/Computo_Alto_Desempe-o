@@ -1,0 +1,32 @@
+# OMP <h1>
+
+
+
+                      / - Constructores
+         - Directivas
+        /             \ - Cláusulas
+       /
+OpenMP -- - Variables de ambiente
+       \
+        \
+         - Funciones de omp-h
+
+constructor parallel
+#pragma omp parallel
+{
+.
+.
+.
+}
+
+Consulta de biblioteca OMP:
+[OMP] (www.openmp.org)
+
+
+
+Linux:
+$export OMP_NUM_THREADS=4
+
+compilar Open MP:
+gcc -fopenmp hola.c -o h
+./h
