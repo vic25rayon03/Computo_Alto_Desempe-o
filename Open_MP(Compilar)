@@ -22,6 +22,8 @@ constructor parallel
 Consulta de biblioteca OMP:
 [OMP] (www.openmp.org)
 
+variables privadas: Declaradas dentro de una región paralelo. Cada hilo tiene su propia variable
+
 
 
 Linux:
