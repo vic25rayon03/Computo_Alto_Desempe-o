@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include <math.h>
+#include<omp.h>
 #define n 10
 
 void llenaArreglo(int *a);
