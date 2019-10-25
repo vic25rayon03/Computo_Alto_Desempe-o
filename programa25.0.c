@@ -47,7 +47,6 @@ void llenaArreglo(int *a)
    		//printf("%d\n", a[i]);
     	}
 }
-
 int buscaMaximo(int *a)
 {
 	int max[10],i,id,maxi,nth;
@@ -77,4 +76,3 @@ int buscaMaximo(int *a)
   }
    	return maxi;
 }
-
